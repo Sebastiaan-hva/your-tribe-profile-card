@@ -46,7 +46,7 @@ article{
 
 .banner{
   position: absolute;
-  background-image: url(https://sbdapparel.ca/cdn/shop/products/SBD_Banner_Logo.jpg?v=1626990043&width=1080);
+  background-image: url(/assets/SBD_Banner.jpg);
   scale:1.0;
   margin-bottom:1px;
   height: 10rem;
