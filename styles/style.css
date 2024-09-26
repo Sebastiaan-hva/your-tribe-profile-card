@@ -46,7 +46,7 @@ article{
 
 .banner{
   position: absolute;
-  background-image: url(/assets/SBD_Banner.jpg);
+  background-image: url(SBD_Banner.jpg);
   scale:1.0;
   margin-bottom:1px;
   height: 10rem;
